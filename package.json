@@ -31,7 +31,7 @@
     "common-tags": "^1.8.2"
   },
   "devDependencies": {
-    "@octokit/types": "^6.34.0",
+    "@octokit/types": "^8.1.1",
     "@types/node": "^16.11.26",
     "@typescript-eslint/parser": "^5.14.0",
     "@vercel/ncc": "^0.33.3",
